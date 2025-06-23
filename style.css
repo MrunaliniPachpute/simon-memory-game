@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxes{
+    /* border: 2px solid black; */
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: 5px;
+    border-radius: 15px;
+    border: 5px solid black;
+}
+
+#red{
+    background-color: #f51720;
+}
+
+#pink{
+    background-color: #fa26a0;
+}
+
+#yellow{
+    background-color: #f8d210;
+}
+
+#blue{
+    background-color: #2ff3e0;
+}
+
+.flash{
+    background-color: white !important;
+    box-shadow: 5px 5px 20px rgb(77, 76, 76);
+    transition: background-color 0.2s; 
+}
+
+.userflash{
+    background-color: rgb(80, 255, 89) !important;
+    box-shadow: 5px 5px 20px rgb(77, 76, 76);
+    transition: background-color 0.2s; 
+}
+
+.fr{
+    background-color: rgb(252, 17, 0) !important;
+    transition: background-color 0.2s; 
+}

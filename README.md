@@ -15,7 +15,7 @@ Challenge your memory, play as long as you can, and track your **highest score**
 
 ## 🎯 Features
 
-- 🧠 Classic **Simon Says** gameplay with colored buttons and sound
+- 🧠 Classic **Simon Says** gameplay with colored buttons and flashes.
 - 🏆 **Highest score tracking** across rounds
 - 🔁 Seamless restart after wrong moves
 - 📱 Mobile-friendly and responsive design
